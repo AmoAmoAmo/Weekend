@@ -1,0 +1,46 @@
+//
+//  PrefixHeader.pch
+//  Weekend
+//
+//  Created by Jane on 16/3/28.
+//  Copyright © 2016年 Jane. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "AFNetworking.h"
+#import "UIImageView+WebCache.h"
+#import "FMDBmanager.h"
+#import "JGProgressHUD+MyHUD.h"
+
+#define SCREENWIDTH [UIScreen mainScreen].bounds.size.width
+#define SCREENHEIGHT [UIScreen mainScreen].bounds.size.height
+
+#define BGCOLOR [UIColor colorWithRed:241/255.0 green:250/255.0 blue:252/255.0 alpha:1]
+#define AUTOCOLOR [UIColor colorWithRed:239/255.0 green:239/255.0 blue:239/255.0 alpha:1]
+
+// placehold image
+#define PLACEIMAGE [UIImage imageNamed:@"loading_image"]
+
+//
+#define UrlWithString(a) [NSURL URLWithString:a]
+
+//左边menu按钮对应tag值
+#define HomeBtnTag 0
+#define FoundBtnTag 1
+#define CollectionBtnTag 2
+#define SettingBtnTag 3
+#define CityBtnTag 4
+#define UserBtnTag 5
+
+//抽屉拉出来右边剩余比例
+#define ScaleToRight 0.14
+
+//判断系统版本号是否是iOS8以上
+#define iOS8 [[[UIDevice currentDevice] systemVersion] floatValue] >= 8.0
+
+#endif /* PrefixHeader_pch */

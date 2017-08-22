@@ -1,0 +1,191 @@
+{
+"status": 200,
+"msg": "",
+"append_info": {},
+"result": {
+"leo_target_id": 0,
+"biz_phone": "",
+"mapicon": {
+"12": "http://image.lanrenzhoumo.com/leo/client/20150513172711_persons.png"
+},
+"providers": "兆祥集",
+"booking_policy": [
+{
+"content": "为了保证您的权益，请选择懒人周末线上支付，如使用其他方式交易并在消费中产生的纠纷，懒人周末无法帮您进行调节并不承担责任，感谢您的理解与支持。",
+"type": "text"
+}
+],
+"collected_num": 11,
+"participate_status": 103,
+"poi": "兆祥集",
+"images": [
+"http://image.lanrenzhoumo.com/leo/img/20160325184312_bb8ee0b9d0dcc10c8200f347723b8183.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160325184326_58e47d18c28ed39caa1f5044668b4719.png",
+"http://image.lanrenzhoumo.com/leo/img/20160325184347_64220cd2621a9a150de4f702512f52b7.png",
+"http://image.lanrenzhoumo.com/leo/img/20160325184401_96265890aac03813c3a04df0b29ff73d.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160325184337_f18f2d9acbf522c0887bf5e921a11d0e.png"
+],
+"server_biz_name": "",
+"viewed_num": 341,
+"category": {
+"icon_view": "http://image.lanrenzhoumo.com/leo/img/20150630095427_c03f97363a4f49562bb1f43bd3171c6d.png",
+"cn_name": "聚会",
+"id": 12
+},
+"city": "深圳",
+"title": "国家级中级茶艺师考证培训班招",
+"main_title": "",
+"lrzm_tips": [
+{
+"content": "此为预约课程，报名后请联系商家确认上课时间并预约，以确保名额。",
+"type": "text"
+},
+{
+"content": "消费时请主动出示您的6位数验证码。",
+"type": "text"
+},
+{
+"content": "请提前1天预约。预约电话：13510375360。",
+"type": "text"
+}
+],
+"sub_title": "",
+"sku_representation": {
+"represent_type": "list",
+"represent_data": [
+{
+"sku_id": "39886",
+"title": "中级茶艺师考证班",
+"price": 4000,
+"min_num_per_oneshot": 1,
+"sell_status": 2,
+"max_num_per_oneshot": 5,
+"time": {
+"info": "3月28日 9:00 ~ 4月28日 17:00",
+"start": "2016-03-28 09:00:00",
+"end": "2016-04-28 17:00:00"
+},
+"price_info": "4000",
+"origin_price": 0
+},
+{
+"sku_id": "39887",
+"title": "高级茶艺师考证班",
+"price": 6000,
+"min_num_per_oneshot": 1,
+"sell_status": 2,
+"max_num_per_oneshot": 5,
+"time": {
+"info": "3月28日 9:00 ~ 4月28日 17:00",
+"start": "2016-03-28 09:00:00",
+"end": "2016-04-28 17:00:00"
+},
+"price_info": "6000",
+"origin_price": 0
+}
+]
+},
+"min_price": 4000,
+"location": {
+"lat": "22.557455",
+"lon": "113.939132"
+},
+"provider": "兆祥集",
+"collected": false,
+"sell_restriction": {
+"sell_status": 2,
+"max_num_per_oneshot": 99,
+"min_num_per_oneshot": 1
+},
+"consult_phone": "",
+"description": [
+{
+"content": "兆祥集．国家级中级茶艺师考证培训班招\r\n\r\n课程特色：\r\n1. 学习中国茶文化知识，认知茶类分类，名优茶鉴别，茶叶储存。\r\n2. 泡好茶汤，技艺修学。学习绿茶、红茶、青茶、白茶、黄茶、黑茶、普洱茶、花茶的冲盖碗冲泡技巧。\r\n3. 六大茶类的识别，审评。\r\n4. 茶具的选用：茶具知识，茶器欣赏。\r\n5.茶艺表演：绿茶与乌龙茶的茶艺表演与适用茶具选择。\r\n6.茶艺美学：茶室礼仪，茶室插花。\r\n7.结业实践：结业雅集，茶艺表演，理论考核。",
+"type": "text"
+},
+{
+"content": "http://image.lanrenzhoumo.com/leo/img/20160325184312_bb8ee0b9d0dcc10c8200f347723b8183.jpg",
+"type": "image",
+"size": [
+1280,
+920
+]
+},
+{
+"content": "授课时间：4天\r\n授课地点：深圳兆祥集\r\n人数：满5人开课集训\r\n费用：\r\n中级茶艺师考证班：4000元/人/期\r\n高级茶艺师考证班：6000元/人/期",
+"type": "text"
+},
+{
+"content": "http://image.lanrenzhoumo.com/leo/img/20160325184401_96265890aac03813c3a04df0b29ff73d.jpg",
+"type": "image",
+"size": [
+1280,
+920
+]
+},
+{
+"content": "授课老师：林燕玲，国家茶艺技师，高级评茶员，国家高级香道师。",
+"type": "text"
+},
+{
+"content": "http://image.lanrenzhoumo.com/leo/img/20160325184347_64220cd2621a9a150de4f702512f52b7.png",
+"type": "image",
+"size": [
+1280,
+920
+]
+},
+{
+"content": "电话：13510375360\r\n地址：深圳南山科技北二路(原朗山二号路)互联易电商园保安楼二口，清泉谷活动中心",
+"type": "text"
+}
+],
+"tags": [],
+"biz_website": "",
+"address": "深圳南山科技北二路",
+"ticket_usage": [],
+"trans_params": {
+"contacter_info": {
+"phone": {
+"restriction": "",
+"type": "fill",
+"value": ""
+},
+"contactor_name": {
+"restriction": "",
+"type": "fill",
+"value": ""
+}
+},
+"quantity": {
+"restriction": "",
+"type": "fill",
+"value": ""
+}
+},
+"leo_target_type": "refers",
+"pay_method_list": [
+1,
+2
+],
+"ticket_rule": [
+{
+"content": "支持随时退，过期退，退款请拨打400-844-0900（周一到周五 8:30-18:00），退款会在1-2个工作日之内退回您的支付账户。",
+"type": "text"
+},
+{
+"content": "如若已和商家约定，退改请先和商家协商，明确可退改后拨打以上电话。",
+"type": "text"
+}
+],
+"time": {
+"info": "3月28日 9:00 ~ 4月28日 17:00",
+"start": "2016-03-28 09:00:00",
+"end": "2016-04-28 17:00:00"
+},
+"price_info": "4000-6000",
+"is_can_book": true,
+"origin_price": "",
+"template_id": 1
+}
+}

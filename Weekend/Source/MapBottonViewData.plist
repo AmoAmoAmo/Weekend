@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>lat</key>
+		<string>50</string>
+		<key>lon</key>
+		<string>80</string>
+		<key>imageUrlStr</key>
+		<string>http://image.lanrenzhoumo.com/leo/img/20160328170248_5a885ca700efa9b37c9f3d4c50d925c9.jpg</string>
+		<key>title</key>
+		<string>【拒绝单身&amp;恋爱导师】—七天让你找到女朋友</string>
+		<key>subTitle</key>
+		<string>聚会</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<string>100</string>
+		<key>lon</key>
+		<string>200</string>
+		<key>imageUrlStr</key>
+		<string>http://image.lanrenzhoumo.com/leo/img/20160405183034_31444ff82081c016c3ff20850c713f63.png</string>
+		<key>title</key>
+		<string>击剑有约 | 让我们像个骑士一样优雅地决斗</string>
+		<key>subTitle</key>
+		<string>运动</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<string>150</string>
+		<key>lon</key>
+		<string>250</string>
+		<key>imageUrlStr</key>
+		<string>http://image.lanrenzhoumo.com/leo/img/20160118181233_b6f40a6b7b7d9833141eb08a79ed5469.JPG</string>
+		<key>title</key>
+		<string>深圳地王大厦空中会所</string>
+		<key>subTitle</key>
+		<string>聚会</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<string>150</string>
+		<key>lon</key>
+		<string>170</string>
+		<key>imageUrlStr</key>
+		<string>http://image.lanrenzhoumo.com/leo/img/20160404004820_bbb47d8a56acbbdeb9b79956eaa5b3da.jpg</string>
+		<key>title</key>
+		<string>深大旁桌游 《天黑请闭眼》</string>
+		<key>subTitle</key>
+		<string>聚会</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<string>280</string>
+		<key>lon</key>
+		<string>300</string>
+		<key>imageUrlStr</key>
+		<string>http://image.lanrenzhoumo.com/leo/img/20160322145559_c8b6d356936944bf26a299db5e3c2751.JPG</string>
+		<key>title</key>
+		<string>5节主课+15节练习课，突破传统教学方法，教你弹钢琴</string>
+		<key>subTitle</key>
+		<string>音乐</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<string>250</string>
+		<key>lon</key>
+		<string>400</string>
+		<key>imageUrlStr</key>
+		<string>http://image.lanrenzhoumo.com/leo/img/20151228153758_fb5c81ed3a220004b71069645f112867.png</string>
+		<key>title</key>
+		<string>深圳:走！打高尔夫去 赠球杆+手套+30分钟教学指导+100颗击球</string>
+		<key>subTitle</key>
+		<string>运动</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,410 @@
+{
+"status": 200,
+"append_info": {},
+"page_total": 0,
+"pagenumber": 0,
+"result": [
+{
+"item_type": "event",
+"jump_type": "event_api",
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20160517181016_9d39fce7e116d2a96ed1156e32f81bc4.jpg"
+],
+"jump_data": "381",
+"title": "告别单调的吃吃喝喝看电影，这真的太不用心了"
+},
+{
+"biz_phone": "",
+"address": "风阳路568号TARA PUB（靠近大田路）",
+"show_free": true,
+"want_status": 0,
+"poi": "魔都生活资讯",
+"category": "派对聚会",
+"collected_num": 0,
+"title": "遇·见——奔跑吧！向爱情出发！",
+"leo_id": 1350218706,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20160518150655_1d2b362835cc3197c5d31dede66f0ec1.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160518150657_1a734d407f9f339571b6f074e938d49c.png"
+],
+"viewed_num": 0,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"单身"
+],
+"price": 188,
+"time_info": "6月4日 13:00",
+"time_desc": "6月4日 周六 13:00-17:00",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2016-06-04 13:00:00",
+"end": "2016-06-04 17:00:00"
+},
+"price_info": "188",
+"category_id": 12,
+"poi_name": "魔都生活资讯"
+},
+{
+"biz_phone": "",
+"address": "黄浦区 白渡路288号 2号 902",
+"show_free": true,
+"want_status": 0,
+"poi": "Les amies工作室",
+"category": "DIY手作",
+"collected_num": 119,
+"title": "连衣裙制作一日课！徐静蕾都去当裁缝了，你想不想也来体验一把？",
+"leo_id": 1359266608,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20160421212513_beb2907e4385d75d61eb1ae0e9ab44b4.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160421212535_98e590046a86897089c41e7381a890b0.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160421212536_7b829cf05f7132cbc2c6827885c6b8a0.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160421212517_bf23fdb455e9f388e386a65fac48287d.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160421212519_4cd9b70484276e70f17ffa0202c05335.jpg"
+],
+"viewed_num": 1257,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"亲子",
+"情侣",
+"单身"
+],
+"price": 269,
+"time_info": "本周六 9:00",
+"time_desc": "5月21日 ~ 5月22日 每天 9:00-13:00",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2016-05-21 09:00:00",
+"end": "2016-05-22 13:00:00"
+},
+"price_info": "269",
+"category_id": 9,
+"poi_name": "Les amies工作室"
+},
+{
+"biz_phone": "",
+"address": "上海市徐汇区淮海中路1251弄3号1楼",
+"show_free": true,
+"want_status": 0,
+"poi": "MoreMo画室",
+"category": "文艺生活",
+"collected_num": 47,
+"title": "老洋房里画色彩 零基础 手绘钢笔淡彩",
+"leo_id": 1357286204,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20160423120448_b2a3887475ca70945f1e34a601057c06.PNG",
+"http://image.lanrenzhoumo.com/leo/img/20160419181111_1b0b05935f9379f19181deba0ba4754e.JPG",
+"http://image.lanrenzhoumo.com/leo/img/20160423120529_24fe7453e3e45711056142274fc2d39b.JPG",
+"http://image.lanrenzhoumo.com/leo/img/20160420155830_837295855f0ced79c1c08cde94c30104.JPG",
+"http://image.lanrenzhoumo.com/leo/img/20160423120524_b4aa13ffc7569dd984a0be79c1aabb5d.PNG"
+],
+"viewed_num": 297,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"亲子",
+"情侣",
+"单身"
+],
+"price": 75,
+"time_info": "除每周一、三外，其余每天 10:00",
+"time_desc": "4月21日 ~ 9月22日 除每周一、三外，其余每天 10:00-21:00",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2016-04-21 10:00:00",
+"end": "2016-09-22 21:00:00"
+},
+"price_info": "75",
+"category_id": 14,
+"poi_name": "MoreMo画室"
+},
+{
+"biz_phone": "",
+"address": "长宁区淮海西路570号红坊创意园B116",
+"show_free": true,
+"want_status": 0,
+"poi": "香气共和国",
+"category": "派对聚会",
+"collected_num": 1,
+"title": "咖啡品鉴+聊聊一颗咖啡的种子到一杯咖啡饮品",
+"leo_id": 1359267609,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20160517173436_7e6980cfb328a5acf0b99bffb2e42ed4.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160517173442_718356d81a3a7776ccb215b8bc4de09f.png",
+"http://image.lanrenzhoumo.com/leo/img/20160517173440_e10735bf5101129083b96a9ac567f4a8.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160517173434_c311141619d2830cc49eb11efdeff702.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160517173444_b4a2fcdc95ae215e12211d18bc0bfef7.png"
+],
+"viewed_num": 62,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"亲子",
+"情侣",
+"单身"
+],
+"price": 180,
+"time_info": "本周日 14:00",
+"time_desc": "5月22日 周日 14:00-16:00",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2016-05-22 14:00:00",
+"end": "2016-05-22 16:00:00"
+},
+"price_info": "180",
+"category_id": 12,
+"poi_name": "香气共和国"
+},
+{
+"biz_phone": "",
+"address": "上海申隆生态园",
+"show_free": true,
+"want_status": 0,
+"poi": "互助网",
+"category": "户外活动",
+"collected_num": 22,
+"title": "（夏季）上海奉贤滑翔伞小坡体验和水上娱乐",
+"leo_id": 1356207205,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20160510144940_9414a8f5b810972c3c9a0e2860c07532.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160510144912_ac847c6ec21514ec2e2d84347db6b8c3.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160510144916_6a379d4cebab98c3776ef83152c1cc6a.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160510144927_62bf1edb36141f114521ec4bb4175579.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160510144902_db3a17f7bcac837ecc1fe2bc630a5473.jpg"
+],
+"viewed_num": 276,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"亲子",
+"情侣",
+"单身"
+],
+"price": 630,
+"time_info": "今天 9:00",
+"time_desc": "5月19日 ~ 5月26日 每天 9:00-15:30",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2016-05-19 09:00:00",
+"end": "2016-05-26 15:30:00"
+},
+"price_info": "630",
+"category_id": 26,
+"poi_name": "互助网"
+},
+{
+"biz_phone": "",
+"address": "集合地：上海人民广场",
+"show_free": true,
+"want_status": 0,
+"poi": "目的地：上青",
+"category": "户外活动",
+"collected_num": 10,
+"title": "真假兰若寺，上青古道竹海听风",
+"leo_id": 1358257809,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20160515170524_907dc82460e616cc92e539762d4fc939.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160515170525_def047ddec410c8535f1deeede41d87a.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160515170525_55f2dc4a986faeba8d5a9115a437d818.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160515170527_748a02a66a2e2fd1d4706cabfe1a6690.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160515170526_686cf1cc039fa6db8dad96188d368283.jpg"
+],
+"viewed_num": 146,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"亲子",
+"情侣",
+"单身"
+],
+"price": 168,
+"time_info": "本周六 7:30",
+"time_desc": "5月21日 周六 7:30-17:30",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2016-05-21 07:30:00",
+"end": "2016-05-21 17:30:00"
+},
+"price_info": "168",
+"category_id": 26,
+"poi_name": "目的地：上青"
+},
+{
+"biz_phone": "",
+"address": "上海市北京西路1700号",
+"show_free": true,
+"want_status": 0,
+"poi": "JDF云峰剧场",
+"category": "剧场演出",
+"collected_num": 1,
+"title": "上海滩，时代的见证者，这里上演着一幕幕动人的爱情和激荡的英雄传说",
+"leo_id": 1358297501,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20160516162452_a3ce37b5d2a6e545ca964df5dc6e633a.png",
+"http://image.lanrenzhoumo.com/leo/img/20160516162341_92a953e5f79818d01fa42466ab5d66e1.png",
+"http://image.lanrenzhoumo.com/leo/img/20160516162348_c2572763768ac645549f18f0ae29fe48.png",
+"http://image.lanrenzhoumo.com/leo/img/20160516162355_23ed6378ffad9f6dd3492eca48d3a581.png",
+"http://image.lanrenzhoumo.com/leo/img/20160516162352_72a9742b0cb2b3efb3631af77e30bbae.png"
+],
+"viewed_num": 72,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"亲子",
+"情侣",
+"单身"
+],
+"price": 200,
+"time_info": "每周四至周日 19:00",
+"time_desc": "6月2日 ~ 6月12日 每周四至周日 19:00-20:30",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2016-06-02 19:00:00",
+"end": "2016-06-12 20:30:00"
+},
+"price_info": "200",
+"category_id": 6,
+"poi_name": "JDF云峰剧场"
+},
+{
+"biz_phone": "",
+"address": "上海市黄浦区董家渡路450弄9号204室",
+"show_free": true,
+"want_status": 0,
+"poi": "波普工作室",
+"category": "派对聚会",
+"collected_num": 207,
+"title": "「橡皮章+软木手柄＋棉布手机袋+下午茶」一次打包全给你",
+"leo_id": 1341557804,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20150521113838_dfe4e3c50349eb2a65c86fa3634c3507.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20150521094237_a05847e29167b7000f52a51eef564df7.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20150612114728_168d21908411f2759819f5eab16539ff.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20150612114001_ec2f63899ff8c69a92fe010fb4872a9a.JPG",
+"http://image.lanrenzhoumo.com/leo/img/20150612113932_9a45d5238981e4e0e56022d8a8623417.JPG"
+],
+"viewed_num": 1553,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"亲子",
+"情侣",
+"单身"
+],
+"price": 80,
+"time_info": "每周六、日 13:30",
+"time_desc": "5月1日 ~ 5月31日 每周六、日 13:30-17:00",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2016-05-01 13:30:00",
+"end": "2016-05-31 17:00:00"
+},
+"price_info": "80",
+"category_id": 12,
+"poi_name": "波普工作室"
+},
+{
+"biz_phone": "",
+"address": "长宁区娄山关路 988 弄 20 号 302 室",
+"show_free": true,
+"want_status": 0,
+"poi": "林雨阁",
+"category": "沙龙学堂",
+"collected_num": 606,
+"title": "教你如何演讲  每周四 一起来练习演讲",
+"leo_id": 1342879601,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20150703182424_3190d11cae941e130cbed7dd18212eee.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160317235110_a02af62de95ffb5f8481909b400e595f.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160317235200_91911538512859b3a9727a26cedc4604.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160317235211_0ba73a800448cb4181555174a32e0b61.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160317235151_4566f7a0b2cf79fca5d7ede12bd4843d.jpg"
+],
+"viewed_num": 4947,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"情侣",
+"单身"
+],
+"price": 10,
+"time_info": "每周四 19:30",
+"time_desc": "4月7日 ~ 2017年1月19日 每周四 19:30-21:30",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2016-04-07 19:30:00",
+"end": "2017-01-19 21:30:00"
+},
+"price_info": "10",
+"category_id": 16,
+"poi_name": "林雨阁"
+},
+{
+"biz_phone": "",
+"address": "上海市黄浦区董家渡路450弄9号204室",
+"show_free": true,
+"want_status": 0,
+"poi": "波普工作室",
+"category": "文艺生活",
+"collected_num": 25,
+"title": "刀即是笔 | 黑白之间 体会木刻版画",
+"leo_id": 1352247003,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20160429134743_fd8b772b90020783da423837e67de9f5.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160429134722_4fd77cafd1901f1dbb14d60dbed50e1d.JPG"
+],
+"viewed_num": 280,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"亲子",
+"情侣",
+"单身"
+],
+"price": 80,
+"time_info": "每周六、日 13:30",
+"time_desc": "5月1日 ~ 5月31日 每周六、日 13:30-17:00",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2016-05-01 13:30:00",
+"end": "2016-05-31 17:00:00"
+},
+"price_info": "80",
+"category_id": 14,
+"poi_name": "波普工作室"
+}
+],
+"msg": "",
+"result_count": 11
+}

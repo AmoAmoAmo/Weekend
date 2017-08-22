@@ -1,0 +1,409 @@
+{
+"status": 200,
+"append_info": {},
+"page_total": 0,
+"pagenumber": 0,
+"result": [
+{
+"item_type": "event",
+"jump_type": "event_api",
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20160517180957_9d39fce7e116d2a96ed1156e32f81bc4.jpg"
+],
+"jump_data": "380",
+"title": "告别单调的吃吃喝喝看电影，这真的太不用心了 "
+},
+{
+"biz_phone": "",
+"address": "北京市西城区西单北大街甲131号西单大悦城9层",
+"show_free": true,
+"want_status": 0,
+"poi": "触电互动",
+"category": "派对聚会",
+"collected_num": 60,
+"title": "大型实景互动体验之《触电·鬼吹灯》",
+"leo_id": 1357207206,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20160511164831_9d4bacd0fe791a81be495dcb5c032862.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160511165246_e3017ecf6c7d2e44b7b7e7ee418e4fe0.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160511164940_5baf5f23ae26fc7c7f8a4006b2239399.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160511165003_623ec0617d6eea283d93d19f4382e03a.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160511165329_e1d91d3082a1b8283831aa725848227a.jpg"
+],
+"viewed_num": 834,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"情侣",
+"单身"
+],
+"price": 80,
+"time_info": "每周二至周日 14:00",
+"time_desc": "5月1日 ~ 7月31日 每周二至周日 14:00-21:30",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2016-05-01 14:00:00",
+"end": "2016-07-31 21:30:00"
+},
+"price_info": "80-98",
+"category_id": 12,
+"poi_name": "触电互动"
+},
+{
+"biz_phone": "",
+"address": "海淀路社区6号楼4单元401",
+"show_free": true,
+"want_status": 0,
+"poi": "奥芝驿站",
+"category": "文艺生活",
+"collected_num": 0,
+"title": "「奥芝驿站茶会」NO.30弹给自己听，我与钢琴的重逢",
+"leo_id": 1350218908,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20160518170242_62f5390fb762b1f5a466b5321f8b2059.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160518170248_776c03a5dd6adb7089c361eea2e40e3c.jpg"
+],
+"viewed_num": 1,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"亲子",
+"情侣",
+"单身"
+],
+"price": 29,
+"time_info": "本周六 14:30",
+"time_desc": "5月21日 周六 14:30-18:30",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2016-05-21 14:30:00",
+"end": "2016-05-21 18:30:00"
+},
+"price_info": "29",
+"category_id": 14,
+"poi_name": "奥芝驿站"
+},
+{
+"biz_phone": "",
+"address": "东城区前门东大街3号首都大酒店一层",
+"show_free": true,
+"want_status": 0,
+"poi": "维罗纳酒吧",
+"category": "派对聚会",
+"collected_num": 28,
+"title": "10元抢票进行中 │仙乐飘飘浪漫爱情音乐派对",
+"leo_id": 1354287808,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20160506171625_fb734a413746153f682daa26e41fe2e5.JPEG",
+"http://image.lanrenzhoumo.com/leo/img/20160511160814_dec99c993c5ffd13591ac9ab424f5695.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160506171644_80d682702c38478c8b1cbe89199ef55a.png",
+"http://image.lanrenzhoumo.com/leo/img/20160506171634_1910c7db8788f952fe8dfd29c237b300.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160506171639_a816574fea5e919a4ad57c2e8d580480.jpg"
+],
+"viewed_num": 486,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"情侣",
+"单身"
+],
+"price": 10,
+"time_info": "本周六 19:00",
+"time_desc": "5月21日 周六 19:00-21:00",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2016-05-21 19:00:00",
+"end": "2016-05-21 21:00:00"
+},
+"price_info": "10-80",
+"category_id": 12,
+"poi_name": "维罗纳酒吧"
+},
+{
+"biz_phone": "",
+"address": "北京市朝阳区阜通东大街阜安东路交汇处贰拾捌咖啡（香浙汇旁）",
+"show_free": true,
+"want_status": 0,
+"poi": "贰拾捌咖啡",
+"category": "文艺生活",
+"collected_num": 628,
+"title": "再不画画就老了，周末一起画画吧！",
+"leo_id": 1344508601,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20150616204200_fa7d4cd4c99734dea0c286b5555b1466.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20150616204401_a572fd5bdfc79aa82bbd85d36cabd64a.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20151221151350_5df7edf958530d94c206e64a7bb1a926.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20150616204617_b9a62f01f868dd8a348ffaa7462d5b0d.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20150616204651_94abd254514513abd04672574fea98fc.jpg"
+],
+"viewed_num": 11559,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"情侣",
+"单身"
+],
+"price": 200,
+"time_info": "每周六、日 14:00",
+"time_desc": "2015年6月20日 ~ 2017年4月7日 每周六、日 14:00-17:00",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2015-06-20 14:00:00",
+"end": "2017-04-07 17:00:00"
+},
+"price_info": "200",
+"category_id": 14,
+"poi_name": "贰拾捌咖啡"
+},
+{
+"biz_phone": "",
+"address": "南三里屯路4号楼（中宇大厦后身或爱奇艺咖啡馆旁20米）",
+"show_free": true,
+"want_status": 0,
+"poi": "老书虫书吧",
+"category": "剧场演出",
+"collected_num": 167,
+"title": "最高品质脱口秀演出·幽默小区脱口秀俱乐部",
+"leo_id": 1354210105,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20160414010940_01ad16efdd921cf2d7f528c86ab84982.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160223080649_312c939dd4cc64ada74b11f662c8147e.JPG",
+"http://image.lanrenzhoumo.com/leo/img/20160513160559_15b8e28a3df8ddd392be15b602893af6.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160501232625_5ed399aaf6167ff3fc6212e516d5cad1.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160414010852_d1c174c9009158ae8d57235bb5532ad4.JPG"
+],
+"viewed_num": 3533,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"情侣",
+"单身"
+],
+"price": 80,
+"time_info": "明天 19:30",
+"time_desc": "5月20日 19:30-21:30、5月21日 19:30-21:30",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2016-05-20 19:30:00",
+"end": "2016-05-21 21:30:00"
+},
+"price_info": "80-100",
+"category_id": 6,
+"poi_name": "老书虫书吧"
+},
+{
+"biz_phone": "",
+"address": "海淀区板井路59号远大园六区沿街商铺",
+"show_free": true,
+"want_status": 0,
+"poi": "峰尚弓社射箭馆",
+"category": "运动健身",
+"collected_num": 2031,
+"title": "射箭是对生活的一种态度",
+"leo_id": 1356115102,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20151212171353_d2307537b94e46b462b3a96aaf549e35.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20151020145751_793a7ef3824ce1eee0cb04bd4f79f0ed.JPG",
+"http://image.lanrenzhoumo.com/leo/img/20151020145817_042f9bb04e8b179d9f12df3e7a8b83e1.JPG",
+"http://image.lanrenzhoumo.com/leo/img/20151020145902_a2db2d658f594fe846e37d3b6c981a24.JPG",
+"http://image.lanrenzhoumo.com/leo/img/20151020150032_5109a0183b76cbd22d39e41c771de140.JPG"
+],
+"viewed_num": 15552,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"情侣",
+"单身"
+],
+"price": 68,
+"time_info": "截止至6月1日",
+"time_desc": "3月14日 11:00 ~ 6月1日 23:30",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2016-03-14 11:00:00",
+"end": "2016-06-01 23:30:00"
+},
+"price_info": "68",
+"category_id": 13,
+"poi_name": "峰尚弓社射箭馆"
+},
+{
+"biz_phone": "",
+"address": "集合地：九江",
+"show_free": true,
+"want_status": 0,
+"poi": "目的地：瑶里镇",
+"category": "户外活动",
+"collected_num": 4,
+"title": "【5月21-22】梦中瑶里，三清山最美杜鹃，行走在花间",
+"leo_id": 1359297805,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20160518134606_4e8ba2f6215203e02b0239dc88f3632d.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160518134657_fe42c957fb037feb8cd1e86a4cd3680a.png",
+"http://image.lanrenzhoumo.com/leo/img/20160518134650_b1feeda24b438058603b8a9cf9bc1535.png",
+"http://image.lanrenzhoumo.com/leo/img/20160518134652_be391811001dd6ce72d16da1c1933c4b.png",
+"http://image.lanrenzhoumo.com/leo/img/20160518134618_ba806d9423759c528ce44ffad3f64cca.jpg"
+],
+"viewed_num": 72,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"亲子",
+"情侣",
+"单身"
+],
+"price": 550,
+"time_info": "本周六 6:30",
+"time_desc": "5月21日 6:30 ~ 5月22日 18:00",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2016-05-21 06:30:00",
+"end": "2016-05-22 18:00:00"
+},
+"price_info": "550",
+"category_id": 26,
+"poi_name": "目的地：瑶里镇"
+},
+{
+"biz_phone": "",
+"address": "朝阳区朝外sohoA座0112 （临近金桐西路）",
+"show_free": true,
+"want_status": 0,
+"poi": "Hey!Coffee",
+"category": "文艺生活",
+"collected_num": 21,
+"title": "夏日么么高冷冰咖",
+"leo_id": 1350266507,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20160405163530_cd4c023fc22b4b3ab5503b9eed6fb35b.png",
+"http://image.lanrenzhoumo.com/leo/img/20160405160542_256c2a933f057ede7ccd747be5749001.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160405160446_aa138f4f71810b376d26792c7eb401c2.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160405143031_fe80240597ea9069f2911ad3693ad9ff.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160405160202_7ca35ab56fc88c26f47924f4d94ceb70.jpg"
+],
+"viewed_num": 176,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"情侣",
+"单身"
+],
+"price": 50,
+"time_info": "本周日 14:00",
+"time_desc": "5月22日 14:00-16:00",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2016-05-22 14:00:00",
+"end": "2016-05-22 16:00:00"
+},
+"price_info": "50",
+"category_id": 14,
+"poi_name": "Hey!Coffee"
+},
+{
+"biz_phone": "",
+"address": "北京市东城区东直门外大街42号宇飞大厦906室",
+"show_free": true,
+"want_status": 0,
+"poi": "城市派都市生活馆",
+"category": "沙龙学堂",
+"collected_num": 41,
+"title": "神话历史学博士讲中国众神系列讲座，从盘古开天到西游量劫",
+"leo_id": 1352257904,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20160429203346_0c1e5a34a8999b477dc4e739a60ea354.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160429203551_0d4ad47f18321b8c5bd318bec7df34cd.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160429203629_579ed2096a9b22a73f3dcf77ac7f6a3d.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160429203628_b5d7d463f1e44f17e95cfd670fd8c733.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160429203618_253e0f9ca8b0671713ade9beb2bcba8f.jpg"
+],
+"viewed_num": 411,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"情侣",
+"单身"
+],
+"price": 59,
+"time_info": "今天 19:30",
+"time_desc": "5月19日 周四 19:30-21:30",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2016-05-19 19:30:00",
+"end": "2016-05-19 21:30:00"
+},
+"price_info": "59",
+"category_id": 16,
+"poi_name": "城市派都市生活馆"
+},
+{
+"biz_phone": "",
+"address": "地铁惠新西街南口A口（地铁5号线或10号线A口出）见“桔子瑜伽”旗帜集合发车",
+"show_free": true,
+"want_status": 0,
+"poi": "北京平谷石林峡",
+"category": "户外活动",
+"collected_num": 4,
+"title": "石林峡“飞碟”高空玻璃观景台之旅，周五出团，拒绝拥堵！",
+"leo_id": 1350218109,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20160518111033_8df7b73a7820f4aef47864f2a6c5fccf.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160518111047_fe5df232cafa4c4e0f1a0294418e5660.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160518111025_799bad5a3b514f096e69bbc4a7896cd9.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160518111048_23580da38ad543fdfca31e5df444f7db.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160518111033_62bf1edb36141f114521ec4bb4175579.jpg"
+],
+"viewed_num": 50,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"亲子",
+"情侣",
+"单身"
+],
+"price": 70,
+"time_info": "明天 7:00",
+"time_desc": "5月20日 7:00-19:00",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2016-05-20 07:00:00",
+"end": "2016-05-20 19:00:00"
+},
+"price_info": "70-128",
+"category_id": 26,
+"poi_name": "北京平谷石林峡"
+}
+],
+"msg": "",
+"result_count": 11
+}

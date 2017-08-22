@@ -1,0 +1,412 @@
+{
+"status": 200,
+"append_info": {},
+"page_total": 0,
+"pagenumber": 0,
+"result": [
+{
+"item_type": "event",
+"jump_type": "event_api",
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20160517181042_9d39fce7e116d2a96ed1156e32f81bc4.jpg"
+],
+"jump_data": "382",
+"title": "告别单调的吃吃喝喝看电影  这真的太不用心了"
+},
+{
+"biz_phone": "",
+"address": "集合地：河体育中心地铁站C出口",
+"show_free": true,
+"want_status": 0,
+"poi": "目的地：台山",
+"category": "户外活动",
+"collected_num": 0,
+"title": "台山狮子头休闲溯溪，喝茶泡水、秀美溪水，清凉一夏",
+"leo_id": 1350218605,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20160518115216_5eecbbed9d8a0a7c24e8f3d0647b4d13.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160518115217_e5b3c441e5fc71f46bb7595fbb579984.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160518115306_c22662ebb5b1ae5fa67809581f82b392.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160518115912_b3e947725864949fc349c7898884086e.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160518115914_75ce04de4c4bae503885868bb783b78a.jpg"
+],
+"viewed_num": 3,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"亲子",
+"情侣",
+"单身"
+],
+"price": 120,
+"time_info": "本周六 8:00",
+"time_desc": "5月21日 8:00-20:00",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2016-05-21 08:00:00",
+"end": "2016-05-21 20:00:00"
+},
+"price_info": "120-130",
+"category_id": 26,
+"poi_name": "目的地：台山"
+},
+{
+"biz_phone": "",
+"address": "广州市天河区体育西地铁G出口附近恒城大厦B座一楼",
+"show_free": true,
+"want_status": 0,
+"poi": "1989cafe&bar",
+"category": "派对聚会",
+"collected_num": 63,
+"title": "下班周末一起玩【桌游趴】",
+"leo_id": 1352226909,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20160408103653_3ff46a2f9a3073af92acaaaf390aeaf6.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160407163207_267a3aafc5bfc099cc1078e8190c6fc4.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160407163128_75c8ab7288ea99542addc46a4f8e6c8d.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160407163133_74973209e5f00a32a7db2a541266a7cd.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160407163039_7fcd7f03e4580e6092fdf4fcf85da54a.jpg"
+],
+"viewed_num": 1016,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"情侣",
+"单身"
+],
+"price": 38,
+"time_info": "每周六、日 13:00",
+"time_desc": "5月6日 ~ 10月31日 每周六、日 13:00-18:00",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2016-05-06 13:00:00",
+"end": "2016-10-31 18:00:00"
+},
+"price_info": "38",
+"category_id": 12,
+"poi_name": "1989cafe&bar"
+},
+{
+"biz_phone": "",
+"address": "广州马场路36号太阳新天地购物广场3楼",
+"show_free": true,
+"want_status": 0,
+"poi": "怡韵琴行-梦想钢琴",
+"category": "文艺生活",
+"collected_num": 7,
+"title": "零基础|成人钢琴五线谱·一对一授课",
+"leo_id": 1358257101,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20160515201951_ea7eb6f2c9153898f7f02e620f21c706.JPG",
+"http://image.lanrenzhoumo.com/leo/img/20160515202018_f3bca6ed10c8ca0008186436cd94256a.JPG",
+"http://image.lanrenzhoumo.com/leo/img/20160515202004_9358f18bad51550f47ed130366d30a84.JPG",
+"http://image.lanrenzhoumo.com/leo/img/20160515201938_48ba14ab867e8d8ac8bc7afea07f3118.JPG",
+"http://image.lanrenzhoumo.com/leo/img/20160515202016_fa0f6a3b300d17b2fe5b80969d4636a9.JPG"
+],
+"viewed_num": 79,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"情侣",
+"单身"
+],
+"price": 39.9,
+"time_info": "截止至12月31日",
+"time_desc": "5月15日 10:00 ~ 12月31日 21:00",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2016-05-15 10:00:00",
+"end": "2016-12-31 21:00:00"
+},
+"price_info": "39.9",
+"category_id": 14,
+"poi_name": "怡韵琴行-梦想钢琴"
+},
+{
+"biz_phone": "",
+"address": "天河区燕岭路93号新燕大厦",
+"show_free": true,
+"want_status": 0,
+"poi": "世界一家",
+"category": "沙龙学堂",
+"collected_num": 18,
+"title": "【克服演讲恐惧】-提升表达能力",
+"leo_id": 1357217207,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20160511203602_2042f856af9e8d855a7bcea22b6eded3.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160511174026_e301fee69672dd9ba6af25e6a1727cc0.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160511174028_9e6cf27eb2060996bf3a86bd08ea0bbb.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160511174059_c3a4587761cc7fc306ae55c79a3c73e6.jpg"
+],
+"viewed_num": 206,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"情侣",
+"单身"
+],
+"price": 30,
+"time_info": "每周一至周五 19:30",
+"time_desc": "5月11日 ~ 7月15日 每周一至周五 19:30-21:30",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2016-05-11 19:30:00",
+"end": "2016-07-15 21:30:00"
+},
+"price_info": "30",
+"category_id": 16,
+"poi_name": "世界一家"
+},
+{
+"biz_phone": "",
+"address": "集合地：体育东路天河体育中心东小门（地铁：体育中心C出口前）",
+"show_free": true,
+"want_status": 0,
+"poi": "目的地：锦潭",
+"category": "户外活动",
+"collected_num": 0,
+"title": "锦潭休闲徒步，123米大坝之上，看遍湖光山色绝壁瀑布流溪",
+"leo_id": 1350218504,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20160518121043_ce9bd6f5a6255b6a216e5599bdcd7615.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160518121020_c9f70dfdd3388b1c18e0657d83a4793a.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160518121038_b79cbd620a00b36a44c9b856cd4e372a.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160518121016_09f88eaf7b76262c8994138f49ffc44b.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160518121022_c964c007ffabe88db1436186b7924f14.jpg"
+],
+"viewed_num": 7,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"亲子",
+"情侣",
+"单身"
+],
+"price": 140,
+"time_info": "本周日 8:00",
+"time_desc": "5月22日 8:00-20:00",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2016-05-22 08:00:00",
+"end": "2016-05-22 20:00:00"
+},
+"price_info": "140",
+"category_id": 26,
+"poi_name": "目的地：锦潭"
+},
+{
+"biz_phone": "",
+"address": "体育西C出口",
+"show_free": true,
+"want_status": 0,
+"poi": "肇庆广宁竹海大观旅游度假风景区",
+"category": "户外活动",
+"collected_num": 25,
+"title": "肇庆广宁竹海美食+竹筏登岛1日游",
+"leo_id": 1356277304,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20160511134616_7e3f3ae6fc1ffa07c508dfee75b1668a.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160511134618_ae2d16108a64581c9f261cc4673c2f9b.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160511134541_74599f728bc0ee07532d8924d8ea3fae.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160511134554_d0de925eaa165f88e654875a2bd1ffbc.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160511134542_8d4d73d8b2198a1a45e400f46f829d9b.jpg"
+],
+"viewed_num": 214,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"亲子",
+"情侣",
+"单身"
+],
+"price": 69,
+"time_info": "本周六、日 8:30",
+"time_desc": "5月21日 ~ 2018年11月25日 每周六、日 8:30-16:30",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2016-05-21 08:30:00",
+"end": "2018-11-25 16:30:00"
+},
+"price_info": "69-128",
+"category_id": 26,
+"poi_name": "肇庆广宁竹海大观旅游度假风景区"
+},
+{
+"biz_phone": "",
+"address": "天河区华强路3号富力盈力大厦南塔史丹尼国际公寓9层911室",
+"show_free": true,
+"want_status": 0,
+"poi": "C+STUDIO",
+"category": "文艺生活",
+"collected_num": 133,
+"title": "艺绘漫生活 | 成人零基础自助绘画体验课",
+"leo_id": 1358210605,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20160516114436_6d6711e7da949975edd43009accffc87.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160420203537_cfeaa0dff9450d5c6f0c3166b64051c5.JPG",
+"http://image.lanrenzhoumo.com/leo/img/20160301122237_3556c2250be7863690401e3286cdce81.JPG",
+"http://image.lanrenzhoumo.com/leo/img/20160301122359_80d1342edab38116102fac137a6da9ab.JPG",
+"http://image.lanrenzhoumo.com/leo/img/20160511084745_cafc2d95e71a60b3fdf68f4c06c3de93.JPG"
+],
+"viewed_num": 2017,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"情侣",
+"单身"
+],
+"price": 119,
+"time_info": "截止至12月31日",
+"time_desc": "3月3日 ~ 12月31日 每天 10:00-21:30",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2016-03-03 10:00:00",
+"end": "2016-12-31 21:30:00"
+},
+"price_info": "119-199",
+"category_id": 14,
+"poi_name": "C+STUDIO"
+},
+{
+"biz_phone": "",
+"address": "环市东路370号正佳环市中心正聚百货4楼",
+"show_free": true,
+"want_status": 0,
+"poi": "HI创意美育中心",
+"category": "DIY手作",
+"collected_num": 22,
+"title": "零基础学广绣",
+"leo_id": 1354237509,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20160505172549_c85aa260ac9c15b9d78ed971e13f3cab.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160505172551_48eb230422df82c432f0633bda8ec420.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160505172550_b3cb4ab1ab96d7ace9abc0c0941ed2c5.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160505172557_1c95c3fe37ca98c6cfeb68cda09d6093.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160505172551_8674b2840e836afab12166f3050b7329.jpg"
+],
+"viewed_num": 261,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"亲子",
+"情侣",
+"单身"
+],
+"price": 238,
+"time_info": "今天 10:30",
+"time_desc": "5月19日 10:30-16:30、5月21日 10:30-16:30、5月24日 10:30-16:30、5月26日 10:30-16:30、5月28日 10:30-16:30",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2016-05-19 10:30:00",
+"end": "2016-05-28 16:30:00"
+},
+"price_info": "238",
+"category_id": 9,
+"poi_name": "HI创意美育中心"
+},
+{
+"biz_phone": "",
+"address": "天河北路高科大厦b座1206",
+"show_free": true,
+"want_status": 0,
+"poi": "本无工作室",
+"category": "DIY手作",
+"collected_num": 5,
+"title": "花一个下午亲手见证传统手鞠的魅力",
+"leo_id": 1358277003,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20160516102453_f99687dd719c4e8bc6a39e946c3d9ef7.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160516102530_26e4a7e132e1da9246c632b777a46399.JPG",
+"http://image.lanrenzhoumo.com/leo/img/20160516102506_a98ace0f6755ea3200dc2d4419b27b52.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160516102618_d3df23748d3e32b1a521d6d2e67228f9.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160516102456_e4bde0eb46b8f32ef4b4207f5344b4d4.jpg"
+],
+"viewed_num": 79,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"情侣",
+"单身"
+],
+"price": 268,
+"time_info": "本周六 14:00",
+"time_desc": "5月21日 周六 14:00-17:30",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2016-05-21 14:00:00",
+"end": "2016-05-21 17:30:00"
+},
+"price_info": "268",
+"category_id": 9,
+"poi_name": "本无工作室"
+},
+{
+"biz_phone": "",
+"address": "集合地：天河体育中心东小门 目的地：黑排角",
+"show_free": true,
+"want_status": 0,
+"poi": "天涯户外俱乐部",
+"category": "户外活动",
+"collected_num": 24,
+"title": "徒步醉美海岸线黑排角，赏无敌海景，观海浪，捡贝壳",
+"leo_id": 1355145903,
+"sell_status": 2,
+"front_cover_image_list": [
+"http://image.lanrenzhoumo.com/leo/img/20151019170033_95ea92a44afd38e62c27ef5651105733.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160518111743_ef4c250b6413b126206292fabaaaacc3.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160518111753_4425d7c1b651c3309429ddcd19b2a880.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20151019165943_63e6c8f719e4f18327c96dff6f3eb991.jpg",
+"http://image.lanrenzhoumo.com/leo/img/20160518111756_0a683bf94162a519ed09a397d0f23247.jpg"
+],
+"viewed_num": 1227,
+"consult_phone": "",
+"jump_type": "leo_detail_api",
+"tags": [
+"情侣",
+"单身"
+],
+"price": 150,
+"time_info": "本周日 8:00",
+"time_desc": "4月4日 8:00-21:30、5月2日 8:00-21:30、5月22日 8:00-21:30、6月10日 8:00-21:30",
+"jump_data": "",
+"distance": 0,
+"item_type": "leo",
+"time": {
+"start": "2016-04-04 08:00:00",
+"end": "2016-06-10 21:30:00"
+},
+"price_info": "150",
+"category_id": 26,
+"poi_name": "天涯户外俱乐部"
+}
+],
+"msg": "",
+"result_count": 11
+}
